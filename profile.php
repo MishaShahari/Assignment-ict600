@@ -53,7 +53,7 @@
   </style>
 
 <body>
-<?php include 'header.php'; ?>
+<?php include 'header.html'; ?>
 
 <div class="container mt-4">
   <h2><strong>Profil Saya</strong></h2>
